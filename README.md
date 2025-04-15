@@ -1,16 +1,58 @@
 ## Hi there 👋
 
-<!--
-**sharmabhavik/sharmabhavik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Bhavik Sharma** — a passionate Data Science & AI enthusiast who loves solving real-world problems with machine learning and deep learning. I'm always exploring new AI tools, building cool projects, and learning cutting-edge technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 About Me
+
+- 🌱 Learning and building with **LLMs**, **RAG**, and **MCPs**
+- ☁️ **Google Cloud Certified**, working with **Vertex AI** and **FastAPI**
+- 🧠 Interested in **AI pipelines**, **XAI**, and **attention mechanisms**
+- 💡 Always curious and excited about **Generative AI** and the future of tech
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+`Python` · `SQL` · `JavaScript` · `C/C++` · `Bash`
+
+**ML & DL**  
+`scikit-learn` · `PyTorch` · `TensorFlow` · `XGBoost` · `LightGBM`
+
+**GenAI & NLP**  
+`HuggingFace` · `LangChain` · `Prompt Engineering` · `FAISS` · `Pinecone`
+
+**Backend & Databases**  
+`FastAPI` · `Flask` · `PostgreSQL` · `MongoDB`
+
+**Cloud & DevOps**  
+`Google Cloud` · `Vertex AI` · `Docker` · `Git`
+
+**Tools**  
+`Jupyter` · `VS Code` · `Streamlit` · `Cursor AI` · `MLflow`
+
+---
+
+## 📚 Currently Exploring
+
+- Fine-tuning and prompting **LLMs**
+- Building smart **RAG-based** AI apps
+- Improving model deployment & **MLOps**
+- Making AI more explainable & trustworthy
+
+---
+
+## 💬 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bhaviksharma/)
+- 🐦 [X (Twitter)](https://x.com/BhavikShar39642)
+- 📧 bhaviksharma204@gmail.com
+
+---
+
+## ⚡ Fun Fact
+
+AI isn’t just my field — it’s my passion.  
+Let’s build something awesome together!
