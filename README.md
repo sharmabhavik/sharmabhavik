@@ -1,3 +1,7 @@
+“A data scientist is someone who is better at statistics
+than any software engineer and better at software
+engineering than any statistician”
+
 ## Hi there 👋
 
 I'm **Bhavik Sharma** — a passionate Data Science & AI enthusiast who loves solving real-world problems with machine learning and deep learning. I'm always exploring new AI tools, building cool projects, and learning cutting-edge technologies.
