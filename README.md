@@ -12,7 +12,7 @@ I'm **Bhavik Sharma** — a passionate Data Science & AI enthusiast who loves so
 
 - 🌱 Learning and building with **LLMs**, **RAG**, and **MCPs**
 - ☁️ **Google Cloud Certified**, working with **Vertex AI** and **FastAPI**
-- 🧠 Interested in **AI pipelines**, **XAI**, and **attention mechanisms**
+- 🧠 Interested in **AI pipelines** and **Attention mechanisms**
 - 💡 Always curious and excited about **Generative AI** and the future of tech
 
 ---
@@ -23,13 +23,13 @@ I'm **Bhavik Sharma** — a passionate Data Science & AI enthusiast who loves so
 `Python` · `SQL` · `JavaScript` · `C/C++` · `Bash`
 
 **ML & DL**  
-`scikit-learn` · `PyTorch` · `TensorFlow` · `XGBoost` · `LightGBM`
+`scikit-learn` · `PyTorch` · `TensorFlow` · `XGBoost`
 
 **GenAI & NLP**  
-`HuggingFace` · `LangChain` · `Prompt Engineering` · `FAISS` · `Pinecone`
+`HuggingFace` · `LangChain` · `Prompt Engineering`
 
 **Backend & Databases**  
-`FastAPI` · `Flask` · `PostgreSQL` · `MongoDB`
+`FastAPI` · `MySql`, `PostgreSQL` · `MongoDB`
 
 **Cloud & DevOps**  
 `Google Cloud` · `Vertex AI` · `Docker` · `Git`
