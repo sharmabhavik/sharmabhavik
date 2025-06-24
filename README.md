@@ -1,6 +1,6 @@
-“A data scientist is someone who is better at statistics
+A data scientist is someone who is better at statistics
 than any software engineer and better at software
-engineering than any statistician”
+engineering than any statistician
 
 ## Hi there 👋
 
